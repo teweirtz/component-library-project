@@ -1,0 +1,108 @@
+button {
+    border-radius: 2px;
+    padding: 5px 25px;
+}
+  .button-primary {
+    background-color: #0069D9;
+    color: white;
+    border: 2px solid #0069D9;
+  }
+  .button-primary-hover:hover {
+    background-color: #0069D9;;
+    color: white;
+    border: 2px solid #0069D9;
+  }
+  .button-primary-outline {
+    background-color: white;
+    color: #0069D9;
+    border: 2px solid #0069D9;
+  }
+  .button-primary-pale {
+    background-color: #9bc6f4;
+    color: white;
+    border: 2px solid #9bc6f4;
+  }
+  .button-large {
+    padding: 10px 50px;
+  }
+  .button-danger {
+    background-color: #ff4858;
+    color: white;
+    border: 2px solid #ff4858;
+  }
+  .button-danger-hover:hover {
+    background-color: #f53848;
+    color: white;
+    border: 2px solid #f53848;
+  }
+  .button-danger-outline {
+    background-color: white;
+    color: #f53848;
+    border: 2px solid #f53848;
+  }
+  .button-danger-pale {
+    background-color: #f98c95;
+    color: white;
+    border: 2px solid #f98c95;
+  }
+  .button-success {
+    background-color: #0ad00a;
+    color: white;
+    border: 2px solid #0ad00a;
+  }
+  .button-success-hover:hover {
+    background-color: #07c107;
+    color: white;
+    border: 2px solid #07c107;
+  }
+    .button-success-outline {
+    background-color: white;
+    color: #0ad00a;
+    border: 2px solid #0ad00a; 
+  }
+  .button-success-pale {
+    background-color: #98f498;
+    color: white;
+    border: 2px solid #98f498;
+  }
+  .button-warning {
+    background-color: #ffc600;
+    color: white;
+    border: 2px solid #ffc600;
+  }
+  .button-warning-hover:hover {
+    background-color: #ffc600;
+    color: white;
+    border: 2px solid #ffc600;
+  }
+  .button-warning-outline {
+    background-color: white;
+    color: #ffc600;
+    border: 2px solid #ffc600;
+  }
+  .button-warning-pale {
+    background-color: #f2d885;
+    color: white;
+    border: 2px solid #f2d885;
+  }
+  .button-default {
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+  }
+  .button-default-hover:hover {
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+  }
+  .button-default-outline {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+  }
+  .button-default-pale {
+    background-color: rgb(128, 128, 128);
+    color: black;
+    border: 2px solid rgb(128, 128, 128);
+  }
+  
